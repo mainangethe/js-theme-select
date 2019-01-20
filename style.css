@@ -1,0 +1,18 @@
+* { margin: 0; }
+html {
+  font-family: cursive;
+  position: relative;
+  height: 100%;
+  background: linear-gradient(225deg, #d4fc79, #96e6a1);
+}
+
+body {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 40%;
+}
+
+section { margin-bottom: 30px; }
+
+select { padding: 5px; font-family: inherit; font-weight: bold; }
